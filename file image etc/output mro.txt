@@ -1,0 +1,15 @@
+P class method
+X class method
+A class method
+Y class method
+B class method
+C class method
+
+
+# Method Resolution Order
+# 1)The first principle is to search for sub class before going for its baseclass.If 
+#     class B is inherited from A it will search B first then go to A
+
+# 2) When a class is inherited from multiple class it searches in orderfrom left to right C(A,B)
+
+# 3) will not visit more than once
