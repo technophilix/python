@@ -1,0 +1,5 @@
+1) Classes and objects
+2)Encapsulation -->Uniform Access principle
+3) Abstraction
+4) Inheritence
+5) Polymorphism
